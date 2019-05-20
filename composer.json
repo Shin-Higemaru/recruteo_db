@@ -1,0 +1,17 @@
+{
+    "name": "shiji/recruteo",
+    "description": "\"projet recruteo\"",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Shin-Higemaru",
+            "email": "shijinboshi@hotmail.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
